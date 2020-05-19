@@ -79,7 +79,7 @@
         }
     }
 
-    return [result copy];
+    return result;
 }
 
 @end
